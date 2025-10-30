@@ -1,0 +1,2 @@
+# Planning
+Stop duplicate API calls on rapid button clicks
